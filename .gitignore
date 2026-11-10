@@ -39,3 +39,10 @@ luac.out
 *.x86_64
 *.hex
 
+.cache/
+_old/
+tree-sitter-lua-grammar/
+tree-sitter-queries/
+pde
+result/plugins/
+result
